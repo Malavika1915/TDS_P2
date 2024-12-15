@@ -26,5 +26,4 @@ LICENSE: MIT License for open-source sharing.
 goodreads/, happiness/, media/: Output folders containing the generated plots.
 
 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code.
-
+This project is licensed under the MIT License. 
